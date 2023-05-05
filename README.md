@@ -35,8 +35,6 @@ Clique aqui para acessar **toda a visualização do Wireframe** de nosso projeto
  <img src="docs/wireframepc.jpg" alt="Wireframe Portal Copa"
 </p>
 
-![Documentacao Projeto Copa do Mundo](docs/wireframe.jpg)
-
 ## 📂 Planejamento - Banco de Dados
 Clique aqui para acessar **toda a visualização do Planejamento - Banco de Dados** de nosso projeto: [Planejamento - Banco de Dados](https://github.com/thiagobapsoares/AC1-3TRI/blob/main/docs/PlanejamentoDB.pdf). 👈
 
