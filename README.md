@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/thiagobapsoares/AC1-3TRI?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/thiagobapsoares/AT-3TRI?style=for-the-badge)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fthiagobapsoares.github.io%2FAC1-3TRI%2F)
 
 <p>
