@@ -32,8 +32,10 @@ Clique aqui para acessar **toda a visualização do Briefing** de nosso projeto:
 Clique aqui para acessar **toda a visualização do Wireframe** de nosso projeto: [Wireframe](https://www.figma.com/file/iiiPdkHZGVoZlA7KTHlAC7/AC-3%C2%B0TRI?node-id=0%3A1). 👈
 
 <p align="center">
- <img src="https://github.com/thiagobapsoaress/AC1-3TRI/docs/wireframepc.jpg" alt="Wireframe Portal Copa"
+ <img src="docs/wireframepc.jpg" alt="Wireframe Portal Copa"
 </p>
+
+![Documentacao Projeto Copa do Mundo](docs/wireframe.jpg)
 
 ## 📂 Planejamento - Banco de Dados
 Clique aqui para acessar **toda a visualização do Planejamento - Banco de Dados** de nosso projeto: [Planejamento - Banco de Dados](https://github.com/thiagobapsoares/AC1-3TRI/blob/main/docs/PlanejamentoDB.pdf). 👈
