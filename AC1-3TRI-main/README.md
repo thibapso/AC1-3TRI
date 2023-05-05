@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/thiagobapsoares/AC1-3TRI?style=for-the-badge)
-![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fthiagobapsoares.github.io%2FAC1-3TRI%2F)
+![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fthiagobapsoares.github.io%2FAT-3TRI%2F)
 
 <p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
@@ -29,10 +29,10 @@ As informações sobre os resultados dos jogos, conforme o passar das partidas e
 Clique aqui para acessar **toda a visualização do Briefing** de nosso projeto: [Briefing](https://github.com/thiagobapsoares/AC1-3TRI/blob/main/docs/Briefing.pdf). 👈
 
 ## 🎨 Wireframe
-Clique aqui para acessar **toda a visualização do Wireframe** de nosso projeto: [Wireframe](https://www.figma.com/file/iiiPdkHZGVoZlA7KTHlAC7/AC-3%C2%B0TRI?node-id=0%3A1). 👈
+Clique aqui para acessar **toda a visualização do Wireframe** de nosso projeto: [Wireframe](https://www.figma.com/file/iiiPdkHZGVoZlA7KTHlAC7/A-3%C2%B0TRI?node-id=0%3A1). 👈
 
 <p align="center">
- <img src="docs/wireframepc.jpg" alt="Wireframe Portal Copa"
+ <img src="https://github.com/thiagobapsoares/AC1-3TRI/blob/main/docs/wireframepc.jpg" alt="Wireframe Portal Copa"
 </p>
 
 ## 📂 Planejamento - Banco de Dados
